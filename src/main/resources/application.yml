@@ -1,0 +1,7 @@
+server:
+  port: 8082
+
+spring:
+  thymeleaf:
+    cache: false #\u5173\u95ED\u7F13\u5B58
+    prefix: classpath:/views/ #\u6DFB\u52A0\u8DEF\u5F84\u524D\u7F00
